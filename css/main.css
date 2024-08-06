@@ -17,7 +17,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: var(--background);
-
+    overflow:hidden;
 }
 :root{
     --main_color: rgb(255, 117, 234);
